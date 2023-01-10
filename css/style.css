@@ -1,0 +1,25 @@
+root {
+  --clr-btn: rgba(72, 72, 245, 1);
+  --clr-font: rgba(23, 23, 23, 1);
+  --clr-font-light: rgba(107, 115, 138, 1);
+  --clr-primary-opacity: rgba(72, 72, 245, 0.1);
+
+  --ff-primary: 'Inter', sans-serif;
+
+  --ff-body: var(--ff-primary);
+  --ff-heading: var(--ff-primary);
+
+  --fw-regular: 400;
+  --fw-semi-bold: 600;
+  --fw-bold: 700;
+
+  --fs-body: 1rem;
+  --fs-paragraph: 0.875rem;
+  --fs-title: 3.25rem;
+  --fs-title-big: 3.875rem;
+  --fs-heading: 2.25rem;
+}
+
+.bigtitle {
+  font-family: 'Inter', sans-serif;
+}
